@@ -3,7 +3,7 @@
 </p>
 
 # Injector
-<p align="center"><img src="https://zupimages.net/up/20/45/q3a1.png"></p>
+<p align="center"><img src="https://zupimages.net/up/22/21/1zq5.jpg"></p>
 A Magisk module which aims to improve kernel/RAM management, by using values between performance and battery savings.
 Flash, and forget.
 
