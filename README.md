@@ -1,8 +1,7 @@
-<h1 align="center">NFS INJECTOR-BY K1ks</h1>
+<h1 align="center">NFS INJECTOR</h1>
 <p align="center">
 </p>
 
-# Injector
 <p align="center"><img src="https://zupimages.net/up/22/24/9vkk.jpg"></p>
 A Magisk module which aims to improve kernel/RAM management, by using values between performance and battery savings.
 Flash, and forget.
