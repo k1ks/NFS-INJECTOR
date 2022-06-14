@@ -24,23 +24,6 @@ Improve Standby , as well as screen battery life - A smooth and fluid , overal e
 
 This Module is Universal , It works on all OS with all kernels (EAS/HMP), Except on Shit/Retarded Kernel. 
 
-## Thread 
-★[MODULE][NFS-INJECTOR][PowerFull And Advanced Management Kernel/Ram]
-
-[XDA](https://forum.xda-developers.com/apps/magisk/module-nfs-injectorv1-t3857231)
-
-## Requirements
-- ARMv7 (armeabi-v7a)
-- ARMv8 (arm64-v8a)
-- Magisk v20+
-- [Magisk Release](https://github.com/topjohnwu/Magisk/releases)
-
-## Supporter Suggestions
-All NFS Members , without Their Help , NFS wouldn't be great 
-
-## Downloads
-[Google Drive](https://drive.google.com/open?id=1GZpVYxd1OyS0PyVBXHyOCjPhI-YnLi8x)
-
 ## NFS - Injector Telegram
 [Telegram Group](https://t.me/nfsinjector)
 
